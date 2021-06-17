@@ -1,0 +1,13 @@
+{
+  "name": "theme-jiggi",
+  "title": "Jiggi theme",
+  "displayName": "Jiggi theme",
+  "theme": "ui",
+  "version": "0.1.0",
+  "description": "An attempt to create a nice theme.",
+  "license": "MIT",
+  "engines": {
+    "mailspring": "*"
+  }
+}
+
