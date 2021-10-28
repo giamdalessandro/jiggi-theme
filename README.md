@@ -2,7 +2,7 @@
 
 A custom [Mailspring](https://getmailspring.com/) Theme based on [Mailspring Theme Starter](https://github.com/Foundry376/Mailspring-Theme-Starter).
 
-![screenshot](screenshot/jiggi-theme_v1_2.png)
+[screenshot](screenshot/jiggi-theme_v1_2.png)
 
 ## Structure
 ```
