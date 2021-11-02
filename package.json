@@ -2,9 +2,9 @@
   "name": "theme-jiggi",
   "title": "Jiggi theme",
   "displayName": "Jiggi theme",
-  "theme": "ui",
-  "version": "0.1.0",
-  "description": "An attempt to create a nice theme.",
+  "theme": "theme-jiggi",
+  "version": "0.1.1",
+  "description": "An attempt to create a nice dark gray theme.",
   "license": "MIT",
   "engines": {
     "mailspring": "*"
